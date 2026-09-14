@@ -4,7 +4,7 @@ This is my PF lab task.
 
 🎓 **Student Software Engineer**
 
-Welcome to my GitHub profile! I'm a student learning software engineering and building my programming skills through projects and practice.
+_Welcome to my GitHub profile! I'm a student learning software engineering and building my programming skills through projects and practice._
 
 ## 👨‍💻 About Me
 
@@ -16,13 +16,13 @@ Welcome to my GitHub profile! I'm a student learning software engineering and bu
 
 ## 🛠️ Skills
 
-* C / C++
-* Python
-* SQL
-* HTML & CSS
-* Git & GitHub
-* Microsoft Access
-* Scratch
+1. C / C++
+2. Python
+3. SQL
+4. HTML & CSS
+5. Git & GitHub
+6. Microsoft Access
+7. Scratch
 
 ## 📂 Projects
 
